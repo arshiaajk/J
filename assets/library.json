@@ -302,12 +302,12 @@
    ]
   },
   {
-   "name": "Mazdi",
+   "name": "Mohsti",
    "description": "ARTIST",
    "singles": [],
    "albums": [],
    "aliases": [
-    "مزدی"
+    "محستی"
    ]
   },
   {
@@ -450,6 +450,236 @@
    "aliases": [
     "امیر تتلو",
     "Tataloo"
+   ]
+  },
+  {
+   "name": "Ashkan Kagan",
+   "description": "ARTIST",
+   "singles": [],
+   "albums": [],
+   "aliases": [
+    "اشکان کاگان"
+   ]
+  },
+  {
+   "name": "Shahin Miri",
+   "description": "ARTIST",
+   "singles": [],
+   "albums": [],
+   "aliases": [
+    "شاهین میری"
+   ]
+  },
+  {
+   "name": "Erfan",
+   "description": "ARTIST",
+   "singles": [],
+   "albums": [],
+   "aliases": [
+    "عرفان"
+   ]
+  },
+  {
+   "name": "Poobon",
+   "description": "ARTIST",
+   "singles": [],
+   "albums": [],
+   "aliases": [
+    "پوبن"
+   ]
+  },
+  {
+   "name": "Shayan Rag",
+   "description": "ARTIST",
+   "singles": [],
+   "albums": [],
+   "aliases": [
+    "شایان رگ"
+   ]
+  },
+  {
+   "name": "021Kid",
+   "description": "ARTIST",
+   "singles": [],
+   "albums": [],
+   "aliases": [
+    "۰۲۱ کید"
+   ]
+  },
+  {
+   "name": "Catchybeatz",
+   "description": "ARTIST",
+   "singles": [],
+   "albums": [],
+   "aliases": [
+    "کچی بیتز"
+   ]
+  },
+  {
+   "name": "Chvrsi",
+   "description": "ARTIST",
+   "singles": [],
+   "albums": [],
+   "aliases": [
+    "چورسی"
+   ]
+  },
+  {
+   "name": "Mahsa Dehdari",
+   "description": "ARTIST",
+   "singles": [],
+   "albums": [],
+   "aliases": [
+    "مهسا دهداری"
+   ]
+  },
+  {
+   "name": "Arian Dousti",
+   "description": "ARTIST",
+   "singles": [],
+   "albums": [],
+   "aliases": [
+    "آرین دوستی"
+   ]
+  },
+  {
+   "name": "Saeed Dehghan",
+   "description": "ARTIST",
+   "singles": [],
+   "albums": [],
+   "aliases": [
+    "سعید دهقان"
+   ]
+  },
+  {
+   "name": "Dorcci",
+   "description": "ARTIST",
+   "singles": [],
+   "albums": [],
+   "aliases": [
+    "درچی"
+   ]
+  },
+  {
+   "name": "Ali Geramy",
+   "description": "ARTIST",
+   "singles": [],
+   "albums": [],
+   "aliases": [
+    "علی گرامی"
+   ]
+  },
+  {
+   "name": "Moreshahin",
+   "description": "ARTIST",
+   "singles": [],
+   "albums": [],
+   "aliases": [
+    "مورشاهین"
+   ]
+  },
+  {
+   "name": "Matin Fattahi",
+   "description": "ARTIST",
+   "singles": [],
+   "albums": [],
+   "aliases": [
+    "متین فتاحی"
+   ]
+  },
+  {
+   "name": "6ehtash",
+   "description": "ARTIST",
+   "singles": [],
+   "albums": [],
+   "aliases": [
+    "بهتاش"
+   ]
+  },
+  {
+   "name": "Ali Janak",
+   "description": "ARTIST",
+   "singles": [],
+   "albums": [],
+   "aliases": [
+    "علی جانک"
+   ]
+  },
+  {
+   "name": "Metallica",
+   "description": "AMERICAN HEAVY METAL BAND",
+   "singles": [],
+   "albums": [],
+   "aliases": [
+    "متالیکا"
+   ]
+  },
+  {
+   "name": "Drake",
+   "description": "CANADIAN RAPPER & SINGER",
+   "singles": [],
+   "albums": [],
+   "aliases": [
+    "دریک",
+    "درایک"
+   ]
+  },
+  {
+   "name": "Dua Lipa",
+   "description": "BRITISH POP SINGER",
+   "singles": [],
+   "albums": [],
+   "aliases": [
+    "دوا لیپا",
+    "دوالیپا"
+   ]
+  },
+  {
+   "name": "Rihanna",
+   "description": "BARBADIAN POP & R&B SINGER",
+   "singles": [],
+   "albums": [],
+   "aliases": [
+    "ریحانا",
+    "ریهانا"
+   ]
+  },
+  {
+   "name": "Eminem",
+   "description": "AMERICAN RAPPER",
+   "singles": [],
+   "albums": [],
+   "aliases": [
+    "اینم",
+    "امینم"
+   ]
+  },
+  {
+   "name": "The Weeknd",
+   "description": "CANADIAN R&B SINGER",
+   "singles": [],
+   "albums": [],
+   "aliases": [
+    "ویکند",
+    "ذا ویکند"
+   ]
+  },
+  {
+   "name": "Linkin Park",
+   "description": "AMERICAN ROCK BAND",
+   "singles": [],
+   "albums": [],
+   "aliases": [
+    "لینکین پارک"
+   ]
+  },
+  {
+   "name": "Billie Eilish",
+   "description": "AMERICAN POP SINGER",
+   "singles": [],
+   "albums": [],
+   "aliases": [
+    "بیلی ایلیش"
    ]
   }
  ]
